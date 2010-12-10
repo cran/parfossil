@@ -1,0 +1,8 @@
+71527b405b20933ab5e9175c6ec32c3c *DESCRIPTION
+a3f89c8efde99eaccb493f442f886faa *NAMESPACE
+685730c48bd9b0c35fdebfe61171a2b2 *R/par.nmds.R
+ff20e0c0cccdcb3ba73afe29bd9ce114 *R/par.spp.est.R
+0e7b0c54f77bcbcf6b4b1cc2ec0ceb85 *inst/CITATION
+f9a59a14173993568445d77d9fb78879 *man/par.nmds.Rd
+6e8656e507044c7df77e7859cf638146 *man/par.spp.est.Rd
+deafc4a33fbf526fc2261c8c8a8f60b0 *man/parfossil-package.Rd
